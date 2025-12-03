@@ -1,1 +1,2 @@
 # Remapping-diapause-vs-non-diapause-embryos-to-AalbF5
+Much data has been compiled to understand expression differences under diapause and non-diapause conditions at multiple timepoints during the Aedes albopictus lifecycle. Multiple new assemblies exist requiring these old data sets to be reanalyzed. Here, data from samples collected at 72 and 135 hours post oviposition is reamapped to the AalbF5 genome assembly. Raw reads can be found from NCBI’s short read archive (SRA) under submission number SRA051478.
