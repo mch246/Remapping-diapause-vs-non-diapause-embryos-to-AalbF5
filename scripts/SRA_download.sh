@@ -2,10 +2,9 @@
 #SBATCH --job-name=sra_download
 #SBATCH --output=sra_download_%j.out
 #SBATCH --mail-type=END,FAIL --mail-user=mch284@georgetown.edu
-#SBATCH --time=10:00:00        # Adjust as needed
-#SBATCH --mem=5G              # Adjust memory as needed
-#SBATCH --cpus-per-task=1      # Adjust CPU as needed
-
+#SBATCH --time=10:00:00        
+#SBATCH --mem=5G              
+#SBATCH --cpus-per-task=1      
 
 cd $SCRATCH
 
